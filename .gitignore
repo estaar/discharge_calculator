@@ -1,2 +1,4 @@
 Analysis.ipynb
 .idea
+#.gitignore
+discharge_results.xlsx
