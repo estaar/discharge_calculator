@@ -8,11 +8,11 @@
     $ source <venv>/bin/activate
 <br>
     $ streamlit run app.py
-6. Enter URL: http://localhost:8501/
-7. Upload an Excel file to the app to calculate discharge from gauge heights.
- ![img.png](img.png)
-8. Click on Download File to download your calculated discharge.
- ![img_1.png](img_1.png)
+5. Enter URL: http://localhost:8501/
+6. Upload an Excel file to the app to calculate discharge from gauge heights.
+![img.png](img.png)
+7. Click on Download File to download your calculated discharge.
+![img_1.png](img_1.png)
 
 ## Excel Format
 The input excel should have the following characteristics:
